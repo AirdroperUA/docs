@@ -1,0 +1,33 @@
+{
+  "tutorialSidebar": [
+    "intro",
+    {
+      "type": "category",
+      "label": "GNSS sanity board",
+      "collapsed": true,
+      "items": [
+        "gnss/gnss",
+        "gnss/gnss_code_params",
+        "gnss/gnss_hardware",
+        "gnss/gnss_wiring",
+        "gnss/gnss_led_status",
+        "gnss/gnss_mavlink",
+        "gnss/gnss_ardupilot_integration",
+        "gnss/gnss_security_model",
+        "gnss/gnss_faq",
+        "gnss/gnss_changelog"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Starlink",
+      "collapsed": true,
+      "items": [
+        "starlink/starlink_mini",
+        "starlink/starlink_stardebug",
+        "starlink/starlink_mini_plans_aviation",
+        "starlink/starlink_mini_gnss_limitations"
+      ]
+    }
+  ]
+}
